@@ -1,0 +1,16 @@
+#box{
+	width: 300px;
+	height: 300px;
+	background: #b9c941;
+	padding: 50px;
+	border-radius: 100%;
+	-webkit-border-radius:100%;
+	-moz-border-radius:100%;*
+	/*-webkit-box-sizing: border-box;*/
+
+
+}
+
+#texto{
+	text-align: center;
+}
